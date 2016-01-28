@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="Java EE 6">
+    <CLASSES>
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/asm-1.5.3.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/asm-attrs-1.5.3.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/aspectjrt-1.6.9.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/cglib-2.1_3.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/commons-digester-2.0.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/dsn.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/ehcache-1.2.3.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/ejb3-persistence-1.0.1.GA.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/imap.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/jackson-core-asl-1.7.1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/jackson-mapper-asl-1.7.1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/javax.inject-1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/jcl-over-slf4j-1.5.10.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/jta-1.1.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/mailapi.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/mysql-connector-java-5.1.6.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/persistence-api-1.0.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/pop3.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/register.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/slf4j-api-1.5.10.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/slf4j-log4j12-1.5.10.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/smtp.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-aop-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-asm-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-beans-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-context-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-context-support-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-core-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-expression-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-jdbc-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-orm-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-security-config-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-security-core-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-security-web-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-tx-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-web-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/spring-webmvc-3.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/sqljdbc.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/tiles-api-2.2.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/tiles-core-2.2.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/tiles-jsp-2.2.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/tiles-servlet-2.2.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/tiles-template-2.2.2.jar!/" />
+      <root url="jar://D:/PROJECTS/hr/war/WEB-INF/lib/xml-apis-1.0.b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

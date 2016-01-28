@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles/toolbar.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/locality" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/male.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/image" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/jqthem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/js" charset="UTF-8" />
+  </component>
+</project>

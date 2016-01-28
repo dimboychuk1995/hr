@@ -1,0 +1,21 @@
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+			 xmlns:beans="http://www.springframework.org/schema/beans"
+			 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			 xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	http://www.springframework.org/schema/security
+	http://www.springframework.org/schema/security/spring-security-3.2.xsd">
+	<http auto-config="true">
+		<intercept-url pattern="/admin-mail" access="ROLE_ADMIN_MAIL, ROLE_ADMIN" />
+		<intercept-url pattern="/admin" access="ROLE_ADMIN_ATS, ROLE_ADMIN" />
+	</http>
+	<authentication-manager alias="authenticationManager">
+	  <authentication-provider>
+	    <user-service>
+	      <user authorities="ROLE_ADMIN" name="sa" password="1" />
+	      <user authorities="ROLE_ADMIN_MAIL" name="oper_email" password="gjinf" />
+	      <user authorities="ROLE_ADMIN_ATS" name="ats" password="20031993" />
+	    </user-service>
+	  </authentication-provider>
+	</authentication-manager>
+</beans:beans>
