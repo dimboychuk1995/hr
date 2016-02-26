@@ -20,7 +20,7 @@
 	<script type="text/javascript" src="<c:url value="/resources/js/jquery.tools.min.js"/>"></script>
 	<script type="text/javascript" src="<c:url value="/resources/js/jquery.cookie.js"/>"></script>
 	<script type="text/javascript">
-		var sap_url= "//10.93.1.56:8084/SOAPEmpoyee/PersonSearch";
+		var sap_url= "//10.93.105.25:8080/SOAPEmpoyee/PersonSearch";
 		//var sap_url= "/STEKEmployee/Employee";
 		var mail_to = "Dmytro.Boychuk@oe.if.ua";
 		$(document).ready(function() {

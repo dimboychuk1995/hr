@@ -72,6 +72,7 @@
 						<span id="sp_00000006">Канцелярія</span>
 					</li>
 					<li class="expandable">
+					<li class="expandable">
 						<div class="hitarea expandable-hitarea"></div>
 							<span id="sp_00000009" class="">Служба охорони праці</span>
 								<ul style="display: none;"><li><span id="sp_50003289">Група оперативного контролю</span></li>
